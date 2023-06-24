@@ -2,18 +2,22 @@
 This Telegram bot is designed to provide users with random movie recommendations based on their preferred genre. It utilizes the Telebot module in Python and integrates with the Telegram platform.
 
 Features
+
 Generates random movie recommendations from a wide range of genres.
 Retrieves movie details such as title, release date, overview, and poster image.
 Provides an interactive interface for users to select genres and receive movie recommendations.
 
 Prerequisites
+
 Before running the bot, make sure you have the following prerequisites:
 Python 3.x installed on your machine.
 The telebot module installed. You can install it using the following command:
 - pip install pyTelegramBotAPI 
 
 An API key from The Movie Database (TMDb) to access movie data. You can obtain an API key by creating an account on their website.
+
 Installation
+
 1. Clone the repository to your local machine:
 - git clone https://github.com/Eddiequal/movie-bot.git 
 2. Navigate to the project directory:
@@ -23,6 +27,7 @@ Installation
 5. Replace 'API_KEY' with your TMDb API key.
 
 Usage
+
 To run the Movie Bot, execute the following command:
 - python movie_bot.py 
 
