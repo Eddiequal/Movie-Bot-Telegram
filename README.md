@@ -10,21 +10,21 @@ Prerequisites
 Before running the bot, make sure you have the following prerequisites:
 Python 3.x installed on your machine.
 The telebot module installed. You can install it using the following command:
-- pip install pyTelegramBotAPI -
+- pip install pyTelegramBotAPI 
 
 An API key from The Movie Database (TMDb) to access movie data. You can obtain an API key by creating an account on their website.
 Installation
 1. Clone the repository to your local machine:
-- git clone https://github.com/Eddiequal/movie-bot.git -
+- git clone https://github.com/Eddiequal/movie-bot.git 
 2. Navigate to the project directory:
-- cd movie-bot -
+- cd movie-bot 
 3. Open the movie_bot.py file in a text editor.
 4. Replace 'BOT_TOKEN' with your Telegram bot token obtained from the BotFather.
 5. Replace 'API_KEY' with your TMDb API key.
 
 Usage
 To run the Movie Bot, execute the following command:
-- python movie_bot.py -
+- python movie_bot.py 
 
 Once the bot is up and running, you can interact with it on Telegram.
 
