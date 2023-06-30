@@ -6,8 +6,8 @@ import random
 from telebot import types
 import requests
 
-BOT_TOKEN = '6190201255:AAECBWRJa3EaE0MpeBiojSfVyMh6jU7OvC0'
-API_KEY = 'cf12207688575407453bac28c488bd1f'
+BOT_TOKEN = 'YOUR BOT TOKEN'
+API_KEY = 'YOUR API KEY'
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
